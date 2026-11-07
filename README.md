@@ -3,7 +3,6 @@
 ![Level: Beginner](https://img.shields.io/badge/Level-Beginner-2ea44f)
 ![Paths: Front End, Back End, Full Stack](https://img.shields.io/badge/Paths-Front%20End%20%7C%20Back%20End%20%7C%20Full%20Stack-1f6feb)
 ![Resources: free curricula](https://img.shields.io/badge/Resources-Free%20curricula-6f42c1)
-![Checked November 2026](https://img.shields.io/badge/Checked-Nov%202026-2ea44f)
 [![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Learn-Web-Development-Start-Here?label=updated)](https://github.com/ImmuneMoon/Learn-Web-Development-Start-Here/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
