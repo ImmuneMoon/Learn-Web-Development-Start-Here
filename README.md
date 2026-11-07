@@ -19,8 +19,6 @@
 - how to keep learning without burning out;
 - a short FAQ and a glossary.
 
-It started as a set of community notes written in 2022 and 2023, and has been updated and checked against official sites in November 2026.
-
 ## ⚠️ Important Notes
 * **Every resource here is free to start,** but some have paid extras, such as certificates. Prices and course details change, so check each site before you pay for anything.
 * **None of these sites or creators are affiliated with this guide.** Videos are linked and credited to their creators. Watch them on their own channels.
@@ -45,8 +43,6 @@ This guide works alongside the rest of the set:
 ---
 
 <!-- guide:start -->
-
-*Resources, course details and prices were checked, and every credited video was reviewed against what it actually says, in November 2026. They change, so confirm them on each site.*
 
 ## Contents
 
@@ -210,9 +206,9 @@ A curriculum gives you an order to learn things in, so you're not guessing. **Pi
 Details worth knowing:
 
 * **freeCodeCamp's older certifications** are now called "legacy". In September 2025, freeCodeCamp said they will eventually expire, no sooner than 2028, and advised learners to move to the new curriculum. It estimated about 300 hours per certification, and about 1,800 hours for the whole full stack path. Some parts were released in stages, so check the Learn page for what's live.
-* **CS50W** is free through Harvard's OpenCourseWare at [cs50.harvard.edu/web](https://cs50.harvard.edu/web/). Score at least 70% on every project, including the final project, and you can get a [free CS50 certificate](https://cs50.harvard.edu/web/certificate/). If you want a verified certificate from edX instead, enroll through [edX](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web). When checked, edX listed it as free to audit, self-paced, about 12 weeks at 6 to 9 hours a week, with a verified certificate for US$299, and the current run open until June 30, 2027.
+* **CS50W** is free through Harvard's OpenCourseWare at [cs50.harvard.edu/web](https://cs50.harvard.edu/web/). Score at least 70% on every project, including the final project, and you can get a [free CS50 certificate](https://cs50.harvard.edu/web/certificate/). If you want a verified certificate from edX instead, enroll through [edX](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript-web). As of November 2026, edX lists it as free to audit, self-paced, about 12 weeks at 6 to 9 hours a week, with a verified certificate for US$299, and the current run open until June 30, 2027.
 * **HarvardX's [Computer Science for Web Programming Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-web-programming)** pairs CS50's Introduction to Computer Science (CS50x) with CS50W. It's still offered on edX, as a paid bundle of the two certificates.
-* **roadmap.sh replaces the old PDF roadmap** that used to be shared with these notes. Its roadmaps are kept up to date by the community, and its project pages let you submit a solution and see other people's.
+* **roadmap.sh's roadmaps** are kept up to date by the community, and its project pages let you submit a solution and see other people's.
 
 ---
 
@@ -244,8 +240,6 @@ These are good extras alongside your main curriculum, especially when one explan
 ### Coding challenges and project sites
 
 Challenge sites (Codewars, HackerRank, Frontend Mentor and others) are covered in [Coding Practice and Interview Prep](https://github.com/ImmuneMoon/Coding-Practice-and-Interview-Prep). Project ideas for your portfolio are in the [careers guide](https://github.com/ImmuneMoon/Web-Developer-Careers-Portfolio-and-Freelancing#2-projects-that-show-real-skill).
-
-> **Google's old developer page has moved.** The `grow.google/developers` link in the original notes now redirects to Google's general Grow with Google page. For Google's free web development courses, use [web.dev Learn](https://web.dev/learn) above.
 
 ---
 
@@ -396,7 +390,7 @@ Sleep, food and exercise affect how well you learn far more than any app. Set a 
   His aside that Python has no switch statement is out of date: Python 3.10 (2021) added `match`.
 * [Everything You NEED to Know About WEB APP Architecture](https://youtu.be/sDlCSIDwpDs), **ForrestKnight**. How the pieces fit together, once the basics make sense (Section 1). It's hard on monoliths, but for your own projects, starting with one is usually the better choice (see the note in Section 1).
 * [What is a Framework and Why use Frameworks](https://youtu.be/1a5VKUc0AUc), **Bitfumes** (now **Sarthaksavvy**). For Step 3.
-* [CS50 Lectures 2021](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL), **CS50**. Harvard's full lecture series for CS50x and CS50W, covering C, Python, SQL, HTML, CSS and JavaScript. Newer lectures are on [cs50.harvard.edu/x](https://cs50.harvard.edu/x/) (CS50x 2026 when checked). This is one option for a deeper foundation. [Computer Science Fundamentals](https://github.com/ImmuneMoon/Computer-Science-Fundamentals) covers it in more detail.
+* [CS50 Lectures 2021](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL), **CS50**. Harvard's full lecture series for CS50x and CS50W, covering C, Python, SQL, HTML, CSS and JavaScript. Newer lectures, such as CS50x 2026, are on [cs50.harvard.edu/x](https://cs50.harvard.edu/x/). This is one option for a deeper foundation. [Computer Science Fundamentals](https://github.com/ImmuneMoon/Computer-Science-Fundamentals) covers it in more detail.
 
 ---
 
@@ -512,8 +506,6 @@ Your curriculum's community first (The Odin Project and freeCodeCamp both have o
 ---
 
 ## 12. Sources
-
-Checked in November 2026.
 
 **Video credited**
 - ForrestKnight, [Everything You NEED to Know About WEB APP Architecture](https://youtu.be/sDlCSIDwpDs) (June 2022)
